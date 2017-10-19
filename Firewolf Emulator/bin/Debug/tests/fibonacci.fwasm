@@ -1,0 +1,7 @@
+mov AR, 1
+mov BR, 0
+DISPLAY:
+	mov CR, AR
+	add AR, BR
+	mov BR, CR
+	jmp [DISPLAY]

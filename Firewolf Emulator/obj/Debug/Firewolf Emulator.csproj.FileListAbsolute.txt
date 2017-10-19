@@ -1,0 +1,16 @@
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\bin\Debug\Firewolf Emulator.exe.config
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\bin\Debug\Firewolf Emulator.exe
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\bin\Debug\Firewolf Emulator.pdb
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\obj\Debug\Firewolf Emulator.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\obj\Debug\Firewolf_Emulator.debug_window.resources
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\obj\Debug\Firewolf Emulator.csproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\obj\Debug\Firewolf Emulator.exe
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Emulator\obj\Debug\Firewolf Emulator.pdb
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\bin\Debug\Firewolf Emulator.exe.config
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\bin\Debug\Firewolf Emulator.exe
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\bin\Debug\Firewolf Emulator.pdb
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\obj\Debug\Firewolf Emulator.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\obj\Debug\Firewolf_Emulator.debug_window.resources
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\obj\Debug\Firewolf Emulator.csproj.GenerateResource.Cache
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\obj\Debug\Firewolf Emulator.exe
+D:\Documents\GitHub\Firewolf CPU Tools\Firewolf Emulator\obj\Debug\Firewolf Emulator.pdb

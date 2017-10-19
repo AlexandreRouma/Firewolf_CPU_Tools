@@ -1,0 +1,1 @@
+d:\documents\visual studio 2017\Projects\Firewolf Emulator\Firewolf Decompiler\obj\Debug\Firewolf Decompiler.csprojResolveAssemblyReference.cache
